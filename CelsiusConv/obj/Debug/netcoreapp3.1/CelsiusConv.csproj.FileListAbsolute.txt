@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\CelsiusConv\CelsiusConv\bin\Debug\netcoreapp3.1\CelsiusConv.exe
+C:\Users\HP\source\repos\CelsiusConv\CelsiusConv\bin\Debug\netcoreapp3.1\CelsiusConv.deps.json
+C:\Users\HP\source\repos\CelsiusConv\CelsiusConv\bin\Debug\netcoreapp3.1\CelsiusConv.runtimeconfig.json
+C:\Users\HP\source\repos\CelsiusConv\CelsiusConv\bin\Debug\netcoreapp3.1\CelsiusConv.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CelsiusConv\CelsiusConv\bin\Debug\netcoreapp3.1\CelsiusConv.dll
+C:\Users\HP\source\repos\CelsiusConv\CelsiusConv\bin\Debug\netcoreapp3.1\CelsiusConv.pdb
+C:\Users\HP\source\repos\CelsiusConv\CelsiusConv\obj\Debug\netcoreapp3.1\CelsiusConv.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CelsiusConv\CelsiusConv\obj\Debug\netcoreapp3.1\CelsiusConv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CelsiusConv\CelsiusConv\obj\Debug\netcoreapp3.1\CelsiusConv.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CelsiusConv\CelsiusConv\obj\Debug\netcoreapp3.1\CelsiusConv.AssemblyInfo.cs
+C:\Users\HP\source\repos\CelsiusConv\CelsiusConv\obj\Debug\netcoreapp3.1\CelsiusConv.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CelsiusConv\CelsiusConv\obj\Debug\netcoreapp3.1\CelsiusConv.dll
+C:\Users\HP\source\repos\CelsiusConv\CelsiusConv\obj\Debug\netcoreapp3.1\CelsiusConv.pdb
+C:\Users\HP\source\repos\CelsiusConv\CelsiusConv\obj\Debug\netcoreapp3.1\CelsiusConv.genruntimeconfig.cache
